@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\My_Start_Up\Power_spy\Power_spy.bat",0,True
